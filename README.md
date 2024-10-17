@@ -1,6 +1,8 @@
 # Halloween-Candy-Rankings
-## Task: To find the 3 treats to give out on Halloween to guarantee that trick-or-treaters of all tastes find something they’ll love and to present the data to back up the decision
-## About Dataset: Data compiled from an experiment that set out to find the most popular Halloween candy by asking online voters to select their favorite from randomly generated matchups (for example, Twix or Snickers?). 
+## Task: 
+To find the 3 treats to give out on Halloween to guarantee that trick-or-treaters of all tastes find something they’ll love and to present the data to back up the decision
+## About Dataset: 
+Data compiled from an experiment that set out to find the most popular Halloween candy by asking online voters to select their favorite from randomly generated matchups (for example, Twix or Snickers?). 
 ## Steps:
 - Used linear regression algorithm to find the variables on which win percent depends. 
 - The algorithm provided 3 variables: chocolate, fruity and peanutyalmondy
